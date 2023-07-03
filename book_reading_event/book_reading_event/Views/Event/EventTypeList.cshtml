@@ -1,0 +1,34 @@
+﻿@model IEnumerable<book_reading_event.Models.Event1>
+@{
+    ViewBag.Title = "EventTypeList";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<p>
+    @Html.ActionLink("Create New", "Create", new { @class = "btn btn-primary" })
+</p>
+
+<table style="margin-top:50px" class="table">
+    <thead>
+        <tr>
+            <th>
+                Event Type Title
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @item.Title
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", "Event", new { id = item.Id }, new { @class = "btn btn-primary" })
+                    @Html.ActionLink("Delete", "Delete", new { id = item.Id }, new { @class = "btn btn-primary" })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+

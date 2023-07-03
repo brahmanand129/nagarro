@@ -1,0 +1,6 @@
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\Logger\bin\Debug\Logger.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\Logger\bin\Debug\Logger.pdb
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\Logger\obj\Debug\Logger.csproj.AssemblyReference.cache
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\Logger\obj\Debug\Logger.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\Logger\obj\Debug\Logger.pdb

@@ -1,0 +1,23 @@
+﻿@model book_reading_event.Models.Event1
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Views/shared/_Layout.cshtml";
+}
+
+<h2>Create</h2>
+
+@using (Html.BeginForm("Create","Event"))
+            {
+<div class="form-horizontal">
+    <div class="form-group">
+        @Html.LabelFor(a => a.Title, new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(a => a.Title, new { htmlAttributes = new { @class = "form-control" } })
+        </div>
+    </div>
+    <div class="form-control-static">
+        <div class="col-md-offset-2 col-md-10"></div>
+        <input type="submit" value="Save" class="btn btn-primary" />
+    </div>
+</div>
+            }

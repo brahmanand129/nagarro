@@ -1,0 +1,6 @@
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\BusinessLayer\obj\Debug\BusinessLayer.pdb

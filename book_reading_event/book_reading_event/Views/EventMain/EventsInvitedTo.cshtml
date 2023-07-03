@@ -1,0 +1,35 @@
+﻿@model IEnumerable<book_reading_event.Models.EventMaster>
+@{
+    ViewBag.Title = "EventsInvitedTo";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="jumbotron " style="background-color:powderblue">
+
+    <h3>You are Invited in Following Events</h3>
+</div>
+<html>
+<body>
+    <div>
+
+        Events-List
+        <br />
+
+    </div>
+
+    <table>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @*@Html.ActionLink(item.Title, "EventList", new { id = item.Invite })*@
+                    @Html.ActionLink(item.Title, "EventList", "EventMain",new { id = item.Invite})
+                    <br />
+                </td>
+            </tr>
+        }
+
+    </table>
+</body>
+</html>
+

@@ -1,0 +1,364 @@
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\book_reading_event.dll.config
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\book_reading_event.dll
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\book_reading_event.pdb
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\roslyn\csc.exe
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\roslyn\csc.exe.config
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\roslyn\csc.rsp
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\roslyn\csi.exe
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\roslyn\csi.exe.config
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\roslyn\csi.rsp
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\roslyn\System.AppContext.dll
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\roslyn\System.Console.dll
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\roslyn\System.IO.Compression.dll
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\roslyn\System.Net.Http.dll
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\roslyn\System.Net.Sockets.dll
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\roslyn\System.ValueTuple.dll
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\roslyn\System.Xml.XPath.dll
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\roslyn\vbc.exe
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\roslyn\vbc.exe.config
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\roslyn\vbc.rsp
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\roslyn\VBCSCompiler.exe
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\Antlr3.Runtime.dll
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\EntityFramework.dll
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\EntityFramework.SqlServer.dll
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\Microsoft.Owin.dll
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\Microsoft.Owin.Security.dll
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\Newtonsoft.Json.dll
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\Owin.dll
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\System.Web.Helpers.dll
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\System.Web.Mvc.dll
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\System.Web.Optimization.dll
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\System.Web.Razor.dll
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\System.Web.WebPages.Deployment.dll
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\System.Web.WebPages.dll
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\System.Web.WebPages.Razor.dll
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\WebGrease.dll
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\System.Web.Helpers.xml
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\System.Web.Mvc.xml
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\System.Web.Optimization.xml
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\System.Web.Razor.xml
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\System.Web.WebPages.xml
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\System.Web.WebPages.Deployment.xml
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\System.Web.WebPages.Razor.xml
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\Newtonsoft.Json.xml
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\Antlr3.Runtime.pdb
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\EntityFramework.xml
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\EntityFramework.SqlServer.xml
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\Microsoft.Owin.xml
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\Microsoft.Owin.Security.xml
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\obj\Debug\book_reading_event.csproj.CoreCompileInputs.cache
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\obj\Debug\book_reading_event.csproj.CopyComplete
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\obj\Debug\book_reading_event.dll
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\obj\Debug\book_reading_event.pdb
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\obj\Debug\book_reading_event.Migrations.InitialCreate.resources
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\obj\Debug\book_reading_event.csproj.GenerateResource.cache
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\obj\Debug\book_reading_event.Migrations._new.resources
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\obj\Debug\book_reading_event.Migrations.eventm.resources
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\obj\Debug\book_reading_event.Migrations.addmodule.resources
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\obj\Debug\book_reading_event.Migrations.displaymodule.resources
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\obj\Debug\book_reading_event.Migrations.Addusername.resources
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\obj\Debug\book_reading_event.Migrations.update.resources
+C:\Users\brahmanandchadchan\source\repos\book_reading_event\book_reading_event\obj\Debug\book_reading_event.csproj.AssemblyReference.cache
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\book_reading_event.dll.config
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\book_reading_event.dll
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\book_reading_event.pdb
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\roslyn\csc.exe
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\roslyn\csc.exe.config
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\roslyn\csc.rsp
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\roslyn\csi.exe
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\roslyn\csi.exe.config
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\roslyn\csi.rsp
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\roslyn\System.AppContext.dll
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\roslyn\System.Console.dll
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\roslyn\System.IO.Compression.dll
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\roslyn\System.Net.Http.dll
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\roslyn\System.Net.Sockets.dll
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\roslyn\System.ValueTuple.dll
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\roslyn\System.Xml.XPath.dll
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\roslyn\vbc.exe
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\roslyn\vbc.exe.config
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\roslyn\vbc.rsp
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\roslyn\VBCSCompiler.exe
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\Antlr3.Runtime.dll
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\EntityFramework.dll
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\EntityFramework.SqlServer.dll
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\Microsoft.Owin.dll
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\Microsoft.Owin.Security.dll
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\Newtonsoft.Json.dll
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\Owin.dll
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\System.Web.Helpers.dll
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\System.Web.Mvc.dll
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\System.Web.Optimization.dll
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\System.Web.Razor.dll
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\System.Web.WebPages.Deployment.dll
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\System.Web.WebPages.dll
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\System.Web.WebPages.Razor.dll
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\WebGrease.dll
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\EntityFramework.xml
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\EntityFramework.SqlServer.xml
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\System.Web.Helpers.xml
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\System.Web.Mvc.xml
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\System.Web.Optimization.xml
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\System.Web.Razor.xml
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\System.Web.WebPages.xml
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\System.Web.WebPages.Deployment.xml
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\System.Web.WebPages.Razor.xml
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\Newtonsoft.Json.xml
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\Antlr3.Runtime.pdb
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\Microsoft.Owin.xml
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\Microsoft.Owin.Security.xml
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\obj\Debug\book_reading_event.Migrations.InitialCreate.resources
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\obj\Debug\book_reading_event.Migrations._new.resources
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\obj\Debug\book_reading_event.Migrations.eventm.resources
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\obj\Debug\book_reading_event.Migrations.addmodule.resources
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\obj\Debug\book_reading_event.Migrations.displaymodule.resources
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\obj\Debug\book_reading_event.Migrations.Addusername.resources
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\obj\Debug\book_reading_event.Migrations.update.resources
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\obj\Debug\book_reading_event.csproj.GenerateResource.cache
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\obj\Debug\book_reading_event.csproj.CoreCompileInputs.cache
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\obj\Debug\book_reading_event.csproj.CopyComplete
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\obj\Debug\book_reading_event.dll
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\obj\Debug\book_reading_event.pdb
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\obj\Debug\book_reading_event.Migrations.newdata.resources
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\obj\Debug\book_reading_event.Migrations.new23.resources
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\book_reading_event\obj\Debug\book_reading_event.csproj.AssemblyReference.cache
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\book_reading_event.dll.config
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\book_reading_event.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\book_reading_event.pdb
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\roslyn\csc.exe
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\roslyn\csc.exe.config
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\roslyn\csc.rsp
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\roslyn\csi.exe
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\roslyn\csi.exe.config
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\roslyn\csi.rsp
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\roslyn\System.AppContext.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\roslyn\System.Console.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\roslyn\System.IO.Compression.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\roslyn\System.Net.Http.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\roslyn\System.Net.Sockets.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\roslyn\System.ValueTuple.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\roslyn\System.Xml.XPath.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\roslyn\vbc.exe
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\roslyn\vbc.exe.config
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\roslyn\vbc.rsp
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\roslyn\VBCSCompiler.exe
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\Antlr3.Runtime.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\EntityFramework.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\EntityFramework.SqlServer.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\Microsoft.Owin.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\Microsoft.Owin.Security.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\Newtonsoft.Json.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\Owin.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\System.Web.Helpers.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\System.Web.Mvc.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\System.Web.Optimization.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\System.Web.Razor.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\System.Web.WebPages.Deployment.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\System.Web.WebPages.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\System.Web.WebPages.Razor.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\WebGrease.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\EntityFramework.xml
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\EntityFramework.SqlServer.xml
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\System.Web.Helpers.xml
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\System.Web.Mvc.xml
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\System.Web.Optimization.xml
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\System.Web.Razor.xml
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\System.Web.WebPages.xml
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\System.Web.WebPages.Deployment.xml
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\System.Web.WebPages.Razor.xml
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\Newtonsoft.Json.xml
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\Antlr3.Runtime.pdb
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\Microsoft.Owin.xml
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\Microsoft.Owin.Security.xml
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\obj\Debug\book_reading_event.csproj.AssemblyReference.cache
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\obj\Debug\book_reading_event.Migrations.InitialCreate.resources
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\obj\Debug\book_reading_event.Migrations._new.resources
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\obj\Debug\book_reading_event.Migrations.eventm.resources
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\obj\Debug\book_reading_event.Migrations.addmodule.resources
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\obj\Debug\book_reading_event.Migrations.displaymodule.resources
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\obj\Debug\book_reading_event.Migrations.Addusername.resources
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\obj\Debug\book_reading_event.Migrations.update.resources
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\obj\Debug\book_reading_event.Migrations.newdata.resources
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\obj\Debug\book_reading_event.Migrations.new23.resources
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\obj\Debug\book_reading_event.csproj.GenerateResource.cache
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\obj\Debug\book_reading_event.csproj.CoreCompileInputs.cache
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\obj\Debug\book_reading_event.csproj.CopyComplete
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\obj\Debug\book_reading_event.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\obj\Debug\book_reading_event.pdb
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\Logger.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\Logger.pdb
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\BusinessLayer.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\Unity.Abstractions.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\Unity.Container.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\Unity.Mvc5.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\BusinessLayer.pdb
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\Unity.Abstractions.pdb
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\book_reading_event\bin\Unity.Container.pdb

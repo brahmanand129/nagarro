@@ -1,0 +1,24 @@
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\Repository\bin\Debug\Repository.dll.config
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\Repository\bin\Debug\Repository.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\Repository\bin\Debug\Repository.pdb
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\Repository\bin\Debug\EntityFramework.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\Repository\bin\Debug\EntityFramework.xml
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\Repository\obj\Debug\Repository.csproj.AssemblyReference.cache
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\Repository\obj\Debug\Repository.csproj.CopyComplete
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\Repository\obj\Debug\Repository.dll
+C:\Users\brahmanandchadchan\Desktop\IELTS & GRE\book_reading_event\Repository\obj\Debug\Repository.pdb
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\Repository\obj\Debug\Repository.csproj.AssemblyReference.cache
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\Repository\obj\Debug\Repository.dll
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\Repository\obj\Debug\Repository.pdb
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\Repository\bin\Debug\Repository.dll.config
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\Repository\bin\Debug\Repository.dll
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\Repository\bin\Debug\Repository.pdb
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\Repository\bin\Debug\EntityFramework.dll
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\Repository\bin\Debug\EntityFramework.xml
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\brahmanandchadchan\Desktop\book_reading_event\Repository\obj\Debug\Repository.csproj.CopyComplete
